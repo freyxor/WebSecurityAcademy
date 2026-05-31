@@ -341,7 +341,7 @@
 - [ ] Performing CSRF exploits over GraphQL (Practitioner) | [Youtube Video]()
 
 ## Race Conditions
-- [ ] Limit overrun race conditions (Apprentice) | [Youtube Video]()
+- [x] Limit overrun race conditions (Apprentice) | [Youtube Video]()
 - [ ] Bypassing rate limits via race conditions (Practitioner) | [Youtube Video]()
 - [ ] Multi-endpoint race conditions (Practitioner) | [Youtube Video]()
 - [ ] Single-endpoint race conditions (Practitioner) | [Youtube Video]()
