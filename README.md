@@ -345,8 +345,8 @@
 - [x] Bypassing rate limits via race conditions (Practitioner) | [Youtube Video](https://youtu.be/atZq1WO8-G4)
 - [x] Multi-endpoint race conditions (Practitioner) | [Youtube Video](https://youtu.be/nTEH4WqmlKg)
 - [x] Single-endpoint race conditions (Practitioner) | [Youtube Video](https://youtu.be/0qNNzO14ufE)
-- [ ] Exploiting time-sensitive vulnerabilities (Practitioner) | [Youtube Video]()
-- [ ] Partial construction race conditions (Expert) | [Youtube Video]()
+- [x] Exploiting time-sensitive vulnerabilities (Practitioner) | [Youtube Video](https://youtu.be/TL95mwZOtOM)
+- [x] Partial construction race conditions (Expert) | [Youtube Video](https://youtu.be/WfTgkgzYWaw)
 
 ## NoSQL Injection
 - [ ] Detecting NoSQL injection (Apprentice) | [Youtube Video]()
