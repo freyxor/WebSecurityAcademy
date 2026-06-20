@@ -190,12 +190,12 @@
 - [ ] Server-side template injection with a custom exploit (Expert)
 
 ## Path Traversal
-- [ ] File path traversal, simple case (Apprentice)| [Youtube Video](https://youtu.be/O9MdGvaoH3c)
-- [ ] File path traversal, traversal sequences blocked with absolute path bypass (Practitioner)| [Youtube Video](https://youtu.be/NXZfYoYppwg)
-- [ ] File path traversal, traversal sequences stripped non-recursively (Practitioner)| [Youtube Video](https://youtu.be/cGPCk7rFnY8)
-- [ ] File path traversal, traversal sequences stripped with superfluous URL-decode (Practitioner)| [Youtube Video](https://youtu.be/pb-Dsn5PbNg)
-- [ ] File path traversal, validation of start of path (Practitioner)| [Youtube Video](https://youtu.be/2Pw5LO2ZIhU)
-- [ ] File path traversal, validation of file extension with null byte bypass (Practitioner)| [Youtube Video](https://youtu.be/M6tiV1LzC6Q)
+- [X] File path traversal, simple case (Apprentice)| [Youtube Video](https://youtu.be/O9MdGvaoH3c)
+- [X] File path traversal, traversal sequences blocked with absolute path bypass (Practitioner)| [Youtube Video](https://youtu.be/NXZfYoYppwg)
+- [X] File path traversal, traversal sequences stripped non-recursively (Practitioner)| [Youtube Video](https://youtu.be/cGPCk7rFnY8)
+- [X] File path traversal, traversal sequences stripped with superfluous URL-decode (Practitioner)| [Youtube Video](https://youtu.be/pb-Dsn5PbNg)
+- [X] File path traversal, validation of start of path (Practitioner)| [Youtube Video](https://youtu.be/2Pw5LO2ZIhU)
+- [X] File path traversal, validation of file extension with null byte bypass (Practitioner)| [Youtube Video](https://youtu.be/M6tiV1LzC6Q)
 
 ## Access Control Vulnerabilities
 - [ ] Unprotected admin functionality (Apprentice)
